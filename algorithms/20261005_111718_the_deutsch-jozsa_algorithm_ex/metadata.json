@@ -1,0 +1,11 @@
+{
+  "topic": "The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-05T11:17:18.712984+00:00",
+  "source_file": "types.rb",
+  "files": [
+    "types.rb"
+  ]
+}

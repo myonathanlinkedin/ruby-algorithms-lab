@@ -1,0 +1,13 @@
+{
+  "topic": "Agent Memory as Source Code: A DSL for Neurons, Synapses and a Hash-Chained Ledger",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-05T13:02:18.513390+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

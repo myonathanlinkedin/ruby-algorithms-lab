@@ -1,0 +1,27 @@
+# Kruskal Minimum Spanning Tree with Disjoint-Set Union in Ruby
+
+Modern **Ruby** reference architecture for **Kruskal Minimum Spanning Tree with Disjoint-Set Union**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+
+## Implementation Details
+
+* **Category**: `Balanced Hierarchical Indexing`
+* **Data Structure Foundation**: `Node Pointers & Self-Balancing Trees`
+* **Allocation Pattern**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
+* **Invariant Integrity**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+
+## Performance Characteristics
+
+* **Time**: `$O(\log N)$` average, with `$O(1)$` best-case response under ideal conditions.
+* **Space**: `$O(N)$` memory usage.
+
+## Test Harness
+
+To compile and execute the test assertions for this module:
+
+```bash
+ruby main.rb
+```
+
+---
+
+*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

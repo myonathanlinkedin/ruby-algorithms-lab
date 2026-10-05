@@ -1,0 +1,12 @@
+{
+  "topic": "Iroh global content discovery",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-05T08:38:36.181100+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

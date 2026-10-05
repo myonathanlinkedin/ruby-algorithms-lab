@@ -1,0 +1,8 @@
+{
+  "topic": "Two-Phase Commit Protocol Coordinator and Participant State Machine",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-05T06:24:27.116491+00:00",
+  "source_file": "main.rb"
+}

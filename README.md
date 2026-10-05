@@ -2,7 +2,7 @@
 > Elegant object-oriented abstractions, domain-specific engines, and functional algorithm implementations. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/ruby-algorithms-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-5%20Modules-blue?style=for-the-badge&logo=ruby)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-6%20Modules-blue?style=for-the-badge&logo=ruby)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -18,6 +18,7 @@
 | 3 | **The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_111718_the_deutsch-jozsa_algorithm_ex/types.rb) |
 | 4 | **Hooking into the Go Toolchain** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_124737_hooking_into_the_go_toolchain/types.rb) |
 | 5 | **Agent Memory as Source Code: A DSL for Neurons, Synapses and a Hash-Chained Ledger** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_130218_agent_memory_as_source_code__a/main.rb) |
+| 6 | **A* Heuristic Pathfinding with Dynamic Obstacle Cost** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_174725_a__heuristic_pathfinding_with/main.rb) |
 
 ---
 
@@ -46,4 +47,4 @@ ruby main.rb
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 13:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 17:47 UTC*</sub>

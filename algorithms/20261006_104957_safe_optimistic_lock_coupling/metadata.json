@@ -1,0 +1,11 @@
+{
+  "topic": "Safe Optimistic Lock Coupling",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-06T10:49:57.506112+00:00",
+  "source_file": "types.rb",
+  "files": [
+    "types.rb"
+  ]
+}

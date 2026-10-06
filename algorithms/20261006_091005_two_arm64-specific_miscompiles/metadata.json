@@ -1,0 +1,13 @@
+{
+  "topic": "Two arm64-specific miscompiles induce vulnerabilities in curl",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-06T09:10:05.907051+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

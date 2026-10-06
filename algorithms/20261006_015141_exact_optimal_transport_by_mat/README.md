@@ -1,6 +1,6 @@
 # Exact Optimal Transport by Matching
 
-Modern **Ruby** reference architecture for **Exact Optimal Transport by Matching**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **Ruby** implementation for **Exact Optimal Transport by Matching**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ---
 
@@ -9,16 +9,16 @@ Modern **Ruby** reference architecture for **Exact Optimal Transport by Matching
 This module organizes `Exact Optimal Transport by Matching` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Correctness Model**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Memory Strategy**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Correctness Model**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ ruby main.rb
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

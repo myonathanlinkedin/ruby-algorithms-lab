@@ -1,6 +1,6 @@
 # Agent Memory as Source Code: A DSL for Neurons, Synapses and a Hash-Chained Ledger
 
-Modern **Ruby** reference architecture for **Agent Memory as Source Code: A DSL for Neurons, Synapses and a Hash-Chained Ledger**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **Ruby** implementation for **Agent Memory as Source Code: A DSL for Neurons, Synapses and a Hash-Chained Ledger**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ---
 
@@ -9,16 +9,16 @@ Modern **Ruby** reference architecture for **Agent Memory as Source Code: A DSL 
 This module organizes `Agent Memory as Source Code: A DSL for Neurons, Synapses and a Hash-Chained Ledger` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Correctness Model**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Memory Strategy**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Correctness Model**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ ruby main.rb
 
 ---
 
-<sub>Crafted with modern Ruby standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard Ruby reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

@@ -14,19 +14,19 @@
 | # | Module / Algorithm | Category | Time Complexity | Space Complexity | Verification Driver | Source Code |
 |---|---|---|:---:|:---:|:---:|:---:|
 | 1 | **Two-Phase Commit Protocol Coordinator and Participant State Machine** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_062427_two-phase_commit_protocol_coor/main.rb) |
-| 2 | **Iroh global content discovery** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_083836_iroh_global_content_discovery/main.rb) |
-| 3 | **The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_111718_the_deutsch-jozsa_algorithm_ex/types.rb) |
+| 2 | **Iroh global content discovery** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_083836_iroh_global_content_discovery/core.rb) |
+| 3 | **State Oracle Evaluation and Constant-vs-Balanced Decision Engine** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_111718_the_deutsch-jozsa_algorithm_ex/types.rb) |
 | 4 | **Hooking into the Go Toolchain** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_124737_hooking_into_the_go_toolchain/types.rb) |
-| 5 | **Agent Memory as Source Code: A DSL for Neurons, Synapses and a Hash-Chained Ledger** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_130218_agent_memory_as_source_code__a/main.rb) |
-| 6 | **A* Heuristic Pathfinding with Dynamic Obstacle Cost** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_174725_a__heuristic_pathfinding_with/main.rb) |
-| 7 | **Kruskal Minimum Spanning Tree with Disjoint-Set Union** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_190734_kruskal_minimum_spanning_tree/main.rb) |
-| 8 | **Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores pdf** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_233222_better_space-time_trade-offs_f/main.rb) |
-| 9 | **Exact Optimal Transport by Matching** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_015141_exact_optimal_transport_by_mat/main.rb) |
-| 10 | **GPU-Initiated Discrete Simulated Bifurcation: Low-Latency Requests and Streaming Dense** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_034920_gpu-initiated_discrete_simulat/main.rb) |
-| 11 | **Async Concurrency: Where does the scheduler live?** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_045248_async_concurrency__where_does/main.rb) |
-| 12 | **Polynomial-time classical algorithms for mean-field models up to the glass transition** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_064710_polynomial-time_classical_algo/main.rb) |
-| 13 | **CV-QAOA: Efficient Low-Depth Quantum Optimization of Continuous Variables** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_075845_cv-qaoa__efficient_low-depth_q/main.rb) |
-| 14 | **Two arm64-specific miscompiles induce vulnerabilities in curl** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_091005_two_arm64-specific_miscompiles/main.rb) |
+| 5 | **Agent Memory as Source Code: A DSL for Neurons, Synapses and a Hash-Chained Ledger** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_130218_agent_memory_as_source_code__a/engine.rb) |
+| 6 | **A* Heuristic Pathfinding with Dynamic Obstacle Cost** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_174725_a__heuristic_pathfinding_with/core.rb) |
+| 7 | **Kruskal Minimum Spanning Tree with Disjoint-Set Union** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_190734_kruskal_minimum_spanning_tree/core.rb) |
+| 8 | **Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores pdf** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_233222_better_space-time_trade-offs_f/engine.rb) |
+| 9 | **Exact Optimal Transport by Matching** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_015141_exact_optimal_transport_by_mat/engine.rb) |
+| 10 | **GPU-Initiated Discrete Simulated Bifurcation: Low-Latency Requests and Streaming Dense** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_034920_gpu-initiated_discrete_simulat/core.rb) |
+| 11 | **Async Concurrency: Where does the scheduler live?** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_045248_async_concurrency__where_does/engine.rb) |
+| 12 | **Polynomial-time classical algorithms for mean-field models up to the glass transition** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_064710_polynomial-time_classical_algo/engine.rb) |
+| 13 | **CV-QAOA: Efficient Low-Depth Quantum Optimization of Continuous Variables** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_075845_cv-qaoa__efficient_low-depth_q/core.rb) |
+| 14 | **Two arm64-specific miscompiles induce vulnerabilities in curl** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_091005_two_arm64-specific_miscompiles/engine.rb) |
 
 ---
 
@@ -55,4 +55,4 @@ ruby main.rb
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 09:10 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 10:45 UTC*</sub>

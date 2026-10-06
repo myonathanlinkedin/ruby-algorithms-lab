@@ -1,12 +1,12 @@
 # Async Concurrency: Where does the scheduler live?
 
-Modern **Ruby** reference architecture for **Async Concurrency: Where does the scheduler live?**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **Ruby** implementation for **Async Concurrency: Where does the scheduler live?**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ### Core Highlights
 * **Language & Standard**: Modern `Ruby` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Concurrency & Safety**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+* **Runtime Overhead**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Concurrency & Safety**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ---
 
@@ -14,9 +14,9 @@ Modern **Ruby** reference architecture for **Async Concurrency: Where does the s
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ ruby main.rb
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

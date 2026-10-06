@@ -16,9 +16,9 @@ This module organizes `Two arm64-specific miscompiles induce vulnerabilities in 
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 

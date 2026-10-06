@@ -1,33 +1,33 @@
-# The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit (Ruby)
+# State Oracle Evaluation and Constant-vs-Balanced Decision Engine
 
-> High-performance **The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit** primitive implemented in idiomatic **Ruby**. Built from scratch using standard library constructs with zero external dependencies.
+An in-memory reference implementation of **State Oracle Evaluation and Constant-vs-Balanced Decision Engine** in **Ruby**, adhering to standard library idioms, clean data structures, and assertion test suites.
 
-## Overview & Mechanics
+### Core Highlights
+* **Language & Standard**: Modern `Ruby` standard library conventions.
+* **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
+* **Runtime Overhead**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Concurrency & Safety**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
-The implementation focuses on the core mathematical properties of **The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit**:
-* **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Execution Guarantees**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+---
 
-## Complexity Profile
+### Complexity Analysis
 
-* **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+| Dimension | Bound |
+| :--- | :--- |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
-## Verification & Test Scenarios
+---
 
-The test suite in `types.rb` validates:
-* Standard operational paths against expected outcomes.
-* Extreme values and edge inputs to ensure robust failure handling.
-* State stability across sequential and repeated operations.
+### Test Suite Execution
+
+Self-contained verification drivers are embedded directly in `types.rb` to validate happy paths, boundary inputs, and invariant preservation.
 
 ```bash
-# Execute local verification runner
 ruby types.rb
 ```
 
 ---
 
-<sub>Crafted with modern Ruby standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard Ruby reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

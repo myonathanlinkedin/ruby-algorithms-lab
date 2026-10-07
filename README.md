@@ -2,7 +2,7 @@
 > Elegant object-oriented abstractions, domain-specific engines, and functional algorithm implementations. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/ruby-algorithms-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-21%20Modules-blue?style=for-the-badge&logo=ruby)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-22%20Modules-blue?style=for-the-badge&logo=ruby)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -34,6 +34,7 @@
 | 19 | **Two arm64-specific miscompiles induce bugs in curl** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_213204_two_arm64-specific_miscompiles/main.rb) |
 | 20 | **Large Growth Happens: Gaussian Elimination with Partial Pivoting on Random Matrices** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_020230_large_growth_happens__gaussian/main.rb) |
 | 21 | **LSM-Tree MemTable and SSTable Flush Compaction Engine** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_060032_lsm-tree_memtable_and_sstable/main.rb) |
+| 22 | **Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_091007_lachesis__lifetime-aware_kv_ca/main.rb) |
 
 ---
 
@@ -62,4 +63,4 @@ ruby main.rb
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 06:00 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 09:10 UTC*</sub>

@@ -1,0 +1,12 @@
+{
+  "topic": "Large Growth Happens: Gaussian Elimination with Partial Pivoting on Random Matrices",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-07T02:02:30.914675+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

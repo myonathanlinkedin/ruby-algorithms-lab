@@ -1,0 +1,12 @@
+{
+  "topic": "Codeforces Go - \u7b97\u6cd5\u7ade\u8d5b\u6a21\u677f\u5e93 by \u7075\u8336\u5c71\u827e\u5e9c \ud83d\udcad\ud83d\udca1\ud83c\udf88",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-08T06:13:00.282482+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

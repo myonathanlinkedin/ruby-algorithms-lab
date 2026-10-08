@@ -1,0 +1,13 @@
+{
+  "topic": "Concurrency Programming (7): volatile \u2014 From Language Semantics to the CPU",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-08T10:01:44.814602+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

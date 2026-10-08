@@ -1,0 +1,12 @@
+{
+  "topic": "Concurrency Programming (8): Read-Write Locks \u2014 From Language Rules to the CPU",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-08T10:03:49.093545+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

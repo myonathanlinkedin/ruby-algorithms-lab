@@ -1,0 +1,12 @@
+{
+  "topic": "The history of the Hetzner Cloud network stack",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-08T20:02:11.064118+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

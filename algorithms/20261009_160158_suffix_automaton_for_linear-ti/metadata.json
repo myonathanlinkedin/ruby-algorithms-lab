@@ -1,0 +1,12 @@
+{
+  "topic": "Suffix Automaton for Linear-Time Substring Indexing",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-09T16:01:58.498523+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

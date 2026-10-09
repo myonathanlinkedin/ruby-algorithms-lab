@@ -1,0 +1,12 @@
+{
+  "topic": "Training Text-to-Image Models Without a VAE",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-09T21:02:26.722706+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

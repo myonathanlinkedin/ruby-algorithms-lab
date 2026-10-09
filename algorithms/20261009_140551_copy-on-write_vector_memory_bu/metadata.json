@@ -1,0 +1,12 @@
+{
+  "topic": "Copy-on-Write Vector Memory Buffer Management",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-09T14:05:51.255318+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

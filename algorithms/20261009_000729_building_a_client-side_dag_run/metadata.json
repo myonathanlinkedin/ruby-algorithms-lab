@@ -1,0 +1,13 @@
+{
+  "topic": "Building a Client-Side DAG Runtime with Kahn s Algorithm",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-09T00:07:29.391085+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

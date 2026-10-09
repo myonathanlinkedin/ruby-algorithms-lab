@@ -2,7 +2,7 @@
 > Elegant object-oriented abstractions, domain-specific engines, and functional algorithm implementations. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/ruby-algorithms-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-12%20Modules-blue?style=for-the-badge&logo=ruby)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-13%20Modules-blue?style=for-the-badge&logo=ruby)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -25,6 +25,7 @@
 | 10 | **Agent Memory as Source Code: A DSL for Neurons, Synapses and a Hash-Chained Ledger** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_190212_agent_memory_as_source_code__a/main.rb) |
 | 11 | **The history of the Hetzner Cloud network stack** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_200211_the_history_of_the_hetzner_clo/main.rb) |
 | 12 | **Building a Client-Side DAG Runtime with Kahn s Algorithm** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_000729_building_a_client-side_dag_run/main.rb) |
+| 13 | **Custom Buddy Memory Allocation System** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_030526_custom_buddy_memory_allocation/main.rb) |
 
 ---
 
@@ -53,4 +54,4 @@ ruby main.rb
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-09 00:07 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-09 03:05 UTC*</sub>

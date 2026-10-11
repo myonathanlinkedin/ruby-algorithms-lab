@@ -1,0 +1,12 @@
+{
+  "topic": "LSM-Trees Explained: The Storage Engine Behind Millions of Writes per Second",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-11T09:34:58.152561+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

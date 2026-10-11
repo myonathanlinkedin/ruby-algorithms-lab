@@ -1,0 +1,12 @@
+{
+  "topic": "Ddia - \u300aDesigning Data-Intensive Application\u300bDDIA \u7b2c\u4e00\u7248 / \u7b2c\u4e8c\u7248 \u4e2d\u6587\u7ffb\u8bd1",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-11T09:07:30.028533+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

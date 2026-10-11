@@ -2,7 +2,7 @@
 > Elegant object-oriented abstractions, domain-specific engines, and functional algorithm implementations. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/ruby-algorithms-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-24%20Modules-blue?style=for-the-badge&logo=ruby)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-25%20Modules-blue?style=for-the-badge&logo=ruby)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -37,6 +37,7 @@
 | 22 | **Topological Sort with Cycle Detection in Directed Graphs** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_230757_topological_sort_with_cycle_de/main.rb) |
 | 23 | **Suffix Automaton for Linear-Time Substring Indexing** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_011931_suffix_automaton_for_linear-ti/main.rb) |
 | 24 | **Dijkstra Shortest Path with Fibonacci Heap Priority Queue** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_050216_dijkstra_shortest_path_with_fi/main.rb) |
+| 25 | **Ddia - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_090730_ddia_-_designing_data-intensiv/main.rb) |
 
 ---
 
@@ -65,4 +66,4 @@ ruby main.rb
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 05:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 09:07 UTC*</sub>

@@ -1,0 +1,12 @@
+{
+  "topic": "Dijkstra Shortest Path with Fibonacci Heap Priority Queue",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-11T05:02:16.719598+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

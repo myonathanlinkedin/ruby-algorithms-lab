@@ -2,7 +2,7 @@
 > Elegant object-oriented abstractions, domain-specific engines, and functional algorithm implementations. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/ruby-algorithms-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-29%20Modules-blue?style=for-the-badge&logo=ruby)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-30%20Modules-blue?style=for-the-badge&logo=ruby)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/ruby-algorithms-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -42,6 +42,7 @@
 | 27 | **Dora** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_111636_dora/main.rb) |
 | 28 | **Conductor** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_133723_conductor/main.rb) |
 | 29 | **Cuckoo Filter High-Efficiency Deletion Structure** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_160226_cuckoo_filter_high-efficiency/main.rb) |
+| 30 | **BFS has one line people get wrong: where you mark a node visited** | ruby | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261012_134151_bfs_has_one_line_people_get_wr/main.rb) |
 
 ---
 
@@ -70,4 +71,4 @@ ruby main.rb
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 16:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-12 13:42 UTC*</sub>

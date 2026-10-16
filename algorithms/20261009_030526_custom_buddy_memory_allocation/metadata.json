@@ -1,0 +1,12 @@
+{
+  "topic": "Custom Buddy Memory Allocation System",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-09T03:05:26.988614+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

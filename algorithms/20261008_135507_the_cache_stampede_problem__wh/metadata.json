@@ -1,0 +1,12 @@
+{
+  "topic": "The Cache Stampede Problem: Why a Popular Cache Key Can Take Down Your Backend",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-08T13:55:07.855464+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

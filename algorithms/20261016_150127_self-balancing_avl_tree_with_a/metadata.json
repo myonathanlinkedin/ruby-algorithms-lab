@@ -1,0 +1,12 @@
+{
+  "topic": "Self-Balancing AVL Tree with Aether-Spinor",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-16T15:01:27.211668+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

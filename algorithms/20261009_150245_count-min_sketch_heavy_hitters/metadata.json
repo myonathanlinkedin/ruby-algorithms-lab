@@ -1,0 +1,13 @@
+{
+  "topic": "Count-Min Sketch Heavy Hitters Frequency Estimator",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-09T15:02:45.222597+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "Why Windows 11 still ships with Windows 95 s memory manager hidden inside it",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-22T01:01:38.772156+00:00",
+  "source_file": "types.rb",
+  "files": [
+    "types.rb"
+  ]
+}

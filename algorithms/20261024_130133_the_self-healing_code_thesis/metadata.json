@@ -1,0 +1,12 @@
+{
+  "topic": "The Self-Healing Code Thesis: Compilers, AI, and the Next 10 Years of Software",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-24T13:01:33.363530+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

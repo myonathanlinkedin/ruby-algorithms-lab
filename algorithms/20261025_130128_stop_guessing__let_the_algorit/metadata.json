@@ -1,0 +1,12 @@
+{
+  "topic": "Stop Guessing. Let the Algorithm Find the Sweet Spot.",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-10-25T13:01:28.000282+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

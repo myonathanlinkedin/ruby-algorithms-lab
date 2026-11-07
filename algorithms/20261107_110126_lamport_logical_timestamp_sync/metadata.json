@@ -1,0 +1,12 @@
+{
+  "topic": "Lamport Logical Timestamp Synchronization Engine",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-07T11:01:26.547400+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

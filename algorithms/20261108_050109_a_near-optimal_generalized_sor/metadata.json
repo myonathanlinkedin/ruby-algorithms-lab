@@ -1,0 +1,13 @@
+{
+  "topic": "A Near-Optimal Generalized Sorting Algorithm",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-08T05:01:09.203122+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

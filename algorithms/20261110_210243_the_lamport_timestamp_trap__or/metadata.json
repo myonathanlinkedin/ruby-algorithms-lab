@@ -1,0 +1,12 @@
+{
+  "topic": "The Lamport Timestamp Trap: Ordered Numbers Aren t Causality",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-10T21:02:43.222367+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "topic": "A* Heuristic Pathfinding with Dynamic Obstacle Cost",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-10T07:02:38.924485+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

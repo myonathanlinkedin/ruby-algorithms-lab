@@ -1,0 +1,12 @@
+{
+  "topic": "Your AI Agent s Memory Is Not Its Source of Truth: The Hidden Risk of Stale Context",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-12T17:02:23.754285+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

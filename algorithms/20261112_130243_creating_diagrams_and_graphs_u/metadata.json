@@ -1,0 +1,12 @@
+{
+  "topic": "Creating Diagrams and Graphs Using Modern CSS",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-12T13:02:43.285432+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

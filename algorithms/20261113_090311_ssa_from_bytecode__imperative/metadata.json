@@ -1,0 +1,12 @@
+{
+  "topic": "SSA from bytecode: imperative pearl",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-13T09:03:11.889950+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

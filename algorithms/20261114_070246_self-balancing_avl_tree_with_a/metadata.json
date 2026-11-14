@@ -1,0 +1,12 @@
+{
+  "topic": "Self-Balancing AVL Tree with Aether-Graph",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-14T07:02:46.468719+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

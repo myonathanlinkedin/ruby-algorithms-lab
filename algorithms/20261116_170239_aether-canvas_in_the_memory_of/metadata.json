@@ -1,0 +1,13 @@
+{
+  "topic": "Aether-Canvas in the memory of other programs",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-16T17:02:39.955184+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

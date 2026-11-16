@@ -1,0 +1,13 @@
+{
+  "topic": "Memory management in 40 major C projects, a survey",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-16T01:02:36.361437+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

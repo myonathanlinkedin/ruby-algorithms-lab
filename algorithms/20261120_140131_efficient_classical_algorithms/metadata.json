@@ -1,0 +1,12 @@
+{
+  "topic": "Efficient Classical Algorithms for Ground Energy Estimation of Fermions with",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-20T14:01:31.072313+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "core.rb",
+    "main.rb"
+  ]
+}

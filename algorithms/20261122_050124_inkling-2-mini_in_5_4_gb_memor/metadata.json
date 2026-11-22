@@ -1,0 +1,13 @@
+{
+  "topic": "Inkling-2-Mini in 5.4 GB Memory",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-22T05:01:24.649006+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

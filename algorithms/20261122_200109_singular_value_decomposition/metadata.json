@@ -1,0 +1,13 @@
+{
+  "topic": "Singular Value Decomposition (SVD) for Low-Rank Approximation",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-22T20:01:09.604491+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

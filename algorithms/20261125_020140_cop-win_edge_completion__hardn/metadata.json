@@ -1,0 +1,11 @@
+{
+  "topic": "Cop-Win Edge Completion: Hardness, Structure, and Parameterized Algorithm",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-25T02:01:40.705613+00:00",
+  "source_file": "types.rb",
+  "files": [
+    "types.rb"
+  ]
+}

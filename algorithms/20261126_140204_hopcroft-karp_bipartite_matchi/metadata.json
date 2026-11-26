@@ -1,0 +1,13 @@
+{
+  "topic": "Hopcroft-Karp Bipartite Matching Algorithm",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-26T14:02:04.657503+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

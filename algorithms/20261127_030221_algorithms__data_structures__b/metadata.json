@@ -1,0 +1,13 @@
+{
+  "topic": "Algorithms, Data Structures (Big-O), and Memory Management: Stack vs. Heap",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-27T03:02:21.447798+00:00",
+  "source_file": "main.rb",
+  "files": [
+    "types.rb",
+    "engine.rb",
+    "main.rb"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "Libtt: A Compiler and Runtime for Tenstorrent Processors",
+  "language": "Ruby",
+  "extension": ".rb",
+  "category": "ruby",
+  "timestamp_utc": "2026-11-28T02:01:56.322116+00:00",
+  "source_file": "core.rb",
+  "files": [
+    "core.rb"
+  ]
+}
